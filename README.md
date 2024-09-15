@@ -19,12 +19,12 @@ Watch the app in action:
 
 ## 📊 Public Opinion
 
-#### 200+ parents surveyed across various regions
+#### 20+ parents surveyed
 
 - Ensured a diverse sample to understand the needs of different demographics.
 - Emphasized safety and ease of use as primary concerns for parents.
 
-<img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/8c0e7b32-9e60-4fca-b26f-965756ca0b0c" alt="Review" width="500" height="300" />
+<img src="https://github.com/user-attachments/assets/43be6f1d-c0a2-4f34-b46a-3f1894bb1b55" alt="Review" width="500" height="300" />
 
 <hr>
 
