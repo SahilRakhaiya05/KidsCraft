@@ -123,34 +123,35 @@ KidsCraft is licensed under the MIT license. See [LICENSE.txt](LICENSE.txt) for 
 
 <hr>
 
+
 <table style="width: 100%;">
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/ecbd59f3-8027-4896-8efa-96a254f55b35" alt="User Page" style="width: 100%;">
+      <img src="https://github.com/user-attachments/assets/e85f9939-8360-422c-8c34-304f32b990bf" alt="User Page" style="width: 100%;">
       <p>User Page</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/b0e184ba-3b62-4b06-b4e5-809eddedd706" alt="Registration Page" style="width: 100%;">
+      <img src="https://github.com/user-attachments/assets/eda60e93-6bd6-4d97-9de2-d9767aecd760" alt="Registration Page" style="width: 100%;">
       <p>Registration Page</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/0b031d26-1931-42ff-95d1-b5bd19a91dab" alt="Login Page" style="width: 100%;">
+      <img src="https://github.com/user-attachments/assets/68b78709-0163-4944-874f-7415c27eb187" alt="Login Page" style="width: 100%;">
       <p>Login Page</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/442a7dd3-d222-44f3-9c44-cd745aa59344" alt="Buyer Homepage" style="width: 100%;">
+      <img src="https://github.com/user-attachments/assets/57d3597c-5d6f-4fc7-b581-b5195d775c93" alt="Buyer Homepage" style="width: 100%;">
       <p>Buyer Homepage</p>
     </td>
     <tr> <td style="text-align: center;">
-      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/1de33c9b-e822-44e3-8228-f9d887e2e43c" alt="Comment" style="width: 100%;">
+      <img src="https://github.com/user-attachments/assets/2828f8ac-db50-4c54-86eb-ae3e9be375e9" alt="Comment" style="width: 100%;">
       <p>Comment</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/5045649f-e157-4307-bcbe-03e9497ab8b7" alt="Sellers on MAP" style="width: 100%;">
+      <img src="https://github.com/user-attachments/assets/62d7f047-43fb-429f-a6a0-2f2e89605cf4" alt="Sellers on MAP" style="width: 100%;">
       <p>Sellers on MAP</p>
     </td>
       <td style="text-align: center;">
-      <img src="https://github.com/SahilRakhaiya05/KidsCraft/assets/144577420/7070135f-53c3-4a6d-8edf-2d6538d66f22" alt="KidGemi ChatBot" style="width: 100%;">
+      <img src="https://github.com/user-attachments/assets/d54d8a6e-def0-4398-986d-823564e06090" alt="KidGemi ChatBot" style="width: 100%;">
       <p>KidGemi ChatBot</p>
     </td>
   </tr>
